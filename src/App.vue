@@ -1,6 +1,6 @@
 <template>
   <nav>
-  Joonnho's first vue page
+  Joonnho's want to change
     <router-link to="/">Home</router-link> |
     <router-link to="/about">About</router-link>
   </nav>
