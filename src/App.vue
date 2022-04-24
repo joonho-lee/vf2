@@ -3,6 +3,7 @@
   Joonnho's want to change
     <router-link to="/">Home</router-link> |
     <router-link to="/about">About</router-link>
+    <router-link to="/joonho">Joonho</router-link>
   </nav>
   <router-view/>
 </template>
