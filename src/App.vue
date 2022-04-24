@@ -1,6 +1,6 @@
 <template>
   <nav>
-  Joonnho made vue
+  Joonnho's first vue page
     <router-link to="/">Home</router-link> |
     <router-link to="/about">About</router-link>
   </nav>
